@@ -4,6 +4,7 @@
 
 ## 仓库与继续工作入口
 
+- 用户已明确要求跨对话沿用同一修改位置：所有正式产品文档和网站代码改在桌面仓库；资料工作区只保留同步记录。修改前读取正式仓库最新依据并检查 Git 状态，不在资料目录另建实现。
 - GitHub：https://github.com/pxn0412/career-prism
 - Git 远程地址：https://github.com/pxn0412/career-prism.git
 - 仓库为用户选择的私有仓库，默认分支 main。
